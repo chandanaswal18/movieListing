@@ -1,10 +1,10 @@
-# Movie Web App
+# Movie Listing Application with Pagination
 
-This is a Movie App built in ReactJS.
+This is a Movie List Application built in ReactJS.
 It uses open [The Movie Database (TMDb) API] (https://www.themoviedb.org/documentation/api) to display data.
 
 ## PROVIDE GIT HUB LINK HERE
-
+https://github.com/chandanaswal18/movieListing
 
 
 ## Features
